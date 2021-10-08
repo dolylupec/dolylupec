@@ -4,5 +4,5 @@
 
 ![Yewon's github stats](https://github-readme-stats.vercel.app/api?username=dolylupec&show_icons=true&hide_border=true) 	
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dolylupec)](https://solved.ac/dolylupec)
+
 
