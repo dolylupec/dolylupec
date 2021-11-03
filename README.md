@@ -41,6 +41,7 @@
   
 </p>
 
+<br>
 
 <h3 align="center">📫 How to reach me</h3>
 
@@ -50,7 +51,6 @@
   <a href="https://www.instagram.com/dolylupec/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
  
 </p>
-
 
 
 <br>
