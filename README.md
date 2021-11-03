@@ -8,11 +8,12 @@
 </p>
 
 <p>
+  
 - 👩🏻‍🎓 I'm majoring in IT Engineering and Big Data Analysis at Sookmyung Women's University.
 - 🌱 I'm currently interested in `Machine Learning`, `Deep Learning`, `Computer Vision`, `Generative Models`.
 </p>
 
-###Experiences
+### Experiences
 - [Core Member] GDSC Sookmyung (2021.08 ~ )
 - [Undergraduate Research] Intelligent Vision Processing Lab (2021.01 ~ )
 - [TA/Mentor] Medici-edu & T Academy Data Analysis Boot Camp (2021.07 ~ 2021.08)
