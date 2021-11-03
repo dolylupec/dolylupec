@@ -41,7 +41,6 @@
   
 </p>
 
-<br>
 
 <h3 align="center">📫 How to reach me</h3>
 
@@ -54,7 +53,6 @@
 
 
 
-<br>
 <br>
 
 ![Yewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolylupec&show_icons=true&theme=material-palenight)
