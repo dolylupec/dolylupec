@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdolylupec)](https://hits.seeyoufarm.com)
 
 <p>
- 📫  :  <a href="mailto:dolylupec@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dolylupec@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:dolylupec@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dolylupec@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yewon-kang-012934209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/dolylupec/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
  
