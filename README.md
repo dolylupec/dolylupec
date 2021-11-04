@@ -43,7 +43,7 @@
 
 <br>
 
-<h3 align="center">📫 How to reach me</h3>
+<h3 align="center">📫 How to reach me📫</h3>
 
 <p align="center">
   <a href="mailto:dolylupec@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dolylupec@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
