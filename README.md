@@ -43,7 +43,6 @@
    
 </p> -->
 
-<br>
 
 <h3 align="center">📫 How to reach me📫</h3>
 
