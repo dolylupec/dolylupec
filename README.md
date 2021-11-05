@@ -14,7 +14,7 @@
 - [Undergraduate Researcher] `Sookmyung W. Univ.` Intelligent Vision Processing Lab (2021.01 ~ )
 - [TA/Mentor] `Medici-edu & T Academy` Data Analysis Boot Camp (2021.07 ~ 2021.08)
 
-<br>
+<!-- <br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -40,8 +40,8 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   
-  
-</p>
+   
+</p> -->
 
 <br>
 
