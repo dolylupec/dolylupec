@@ -9,10 +9,10 @@
 - 🌱 I'm currently interested in `Machine Learning`, `Deep Learning`, `Computer Vision`, `Generative Models`.
 </p>
 
-<!-- ### 🔭 Experiences
+### 🔭 Experiences
 - [Core Member] GDSC Sookmyung (2021.08 ~ )
 - [Undergraduate Researcher] `Sookmyung W. Univ.` Intelligent Vision Processing Lab (2021.01 ~ )
-- [TA/Mentor] `Medici-edu & T Academy` Data Analysis Boot Camp (2021.07 ~ 2021.08) -->
+- [TA/Mentor] `Medici-edu & T Academy` Data Analysis Boot Camp (2021.07 ~ 2021.08)
 
 <!-- <br>
 
