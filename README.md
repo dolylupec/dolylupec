@@ -10,7 +10,7 @@
 </p>
 
 ### 🔭 Experiences
-- [Core Member] GDSC Sookmyung (2021.08 ~ )
+- [Core Member] `Google Developer Student Clubs` GDSC Sookmyung (2021.08 ~ )
 - [Undergraduate Researcher] `Sookmyung W. Univ.` Intelligent Vision Processing Lab (2021.01 ~ )
 - [TA/Mentor] `Medici-edu & T Academy` Data Analysis Boot Camp (2021.07 ~ 2021.08)
 
