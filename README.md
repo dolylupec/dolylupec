@@ -5,7 +5,7 @@
 
 <p> 
   
-- 👩🏻‍🎓 I'm majoring in IT Engineering & Big Data Analysis at Sookmyung Women's University.
+- 👩🏻‍🎓 I'm majoring in `IT Engineering` & `Big Data Analysis` at Sookmyung Women's University.
 - 🌱 I'm currently interested in `Machine Learning`, `Deep Learning`, `Computer Vision`, `Generative Models`.
 </p>
 
