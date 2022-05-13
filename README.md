@@ -1,24 +1,21 @@
-## Hi! I'm Yewon :)
+## Yewon Kang :)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdolylupec&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-<p> 
-  
-- 👩🏻‍🎓 I'm majoring in IT Engineering & Big Data Analysis at Sookmyung Women's University.
-- 🌱 I'm currently interested in `Machine Learning`, `Deep Learning`, `Computer Vision`, `Generative Models`.
+<!-- 
+<p align="center">
+  Hi! I'm <b>Yewon</b> :) <br/>
+  I'm majoring in IT Engineering & Big Data Analysis at Sookmyung Women's University.👩‍💻 <br/>
+  I'm Google Developer Student Clubs Core Member (ML) at Sookmyung Women's University, <br/>
+  and interested in <b>Machine Learning</b>, <b>Deep Learning</b>, <b>Computer Vision</b>, and <b>Community Building</b>. <br/>
+  I love to communicate with people🥰 Hit me up!
 </p>
+ -->
 
-### 🔭 Experiences
-- [Core Member/ML Lead] `Google Developer Student Clubs` GDSC Sookmyung (2021.08 ~ )
-- [Undergraduate Researcher] `Sookmyung W. Univ.` Intelligent Vision Processing Lab (2021.01 ~ 2022.01)
-- [TA/Mentor] `Medici-edu & T Academy` Data Analysis Boot Camp (2021.07 ~ 2021.08)
 
-<!-- <br>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<!-- <h3 align="center">Tech Stacks</h3>
 
-<p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -41,13 +38,13 @@
   <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   
    
-</p> -->
+</p>  -->
 
-<br>
 
-<h3 align="center">📫 How to reach me📫</h3>
 
-<p align="center">
+<!-- <h3>📫 How to reach me📫</h3> -->
+
+<p>
   <a href="mailto:dolylupec@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dolylupec@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
   <a href="https://www.linkedin.com/in/yewon-kang-012934209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp
   <a href="https://www.instagram.com/dolylupec/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
