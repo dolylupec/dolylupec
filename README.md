@@ -43,6 +43,9 @@
 
 
 <!-- <h3>📫 How to reach me📫</h3> -->
+<p>
+  Currently working at **Symbiote AI**
+ </p>
 
 <p>
   <a href="mailto:dolylupec@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dolylupec@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
