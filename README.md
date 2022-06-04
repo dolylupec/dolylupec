@@ -44,7 +44,7 @@
 
 <!-- <h3>📫 How to reach me📫</h3> -->
 <p>
-  Currently working at **Symbiote AI**
+  Currently working at <b>Symbiote AI</b>
  </p>
 
 <p>
